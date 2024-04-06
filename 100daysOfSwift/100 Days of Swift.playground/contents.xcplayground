@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playground version="6.0" target-platform="ios" requires-full-environment="false">
+<playground target-platform="ios" version="6.0" requires-full-environment="false">
     <pages>
-        <page name="100 Days of Swift"/>
+        <page name="Introduction to 100 Days of Swift"/>
         <page name="Variables"/>
     </pages>
 </playground>
